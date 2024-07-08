@@ -1,5 +1,5 @@
 import React from "react";
-import Transaction from "../Components/Transaction";
+import Transactions from "../Components/Transactions";
 
 const Index = () => {
     return (
